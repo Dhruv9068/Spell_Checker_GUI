@@ -41,9 +41,8 @@ python spell_checker.py
 ## Contributions
 Contributions are welcome! If you find any issues or want to suggest improvements, feel free to open an issue or submit a pull request.
 
+```
 
-Replace `"your_username"` in the clone URL with your actual GitHub username. Make sure to have a file named `digital_clock.py` in your repository containing the main code for the digital clock GUI.
+Replace `"your_username"` in the clone URL with your actual GitHub username. Make sure to have a file named `Spell_Checker.py` in your repository containing the main code for the Spell Checker GUI.
 
 
-
-Replace `"Dhruv9068"` in the clone URL with your actual GitHub username. Make sure to have a file named `spell_checker.py` in your repository containing the main code for the spell checker GUI.
